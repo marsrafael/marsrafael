@@ -12,7 +12,7 @@ Estudiante de **Ciencias de la Computación** en la UPC (Lima, Perú). Me intere
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [Zoonauta](https://github.com/marsrafael/zoonauta) | Juego educativo de animales y hábitats con pictogramas y una guía con IA y voz. Español y portugués. | Python · React · TypeScript · Vite |
+| Zoonauta (en equipo) | Juego educativo de animales y hábitats con pictogramas y una guía con IA y voz. Español y portugués. | Python · React · TypeScript · Vite |
 | [Ruta más rápida (Dijkstra)](https://github.com/marsrafael/ruta-mas-rapida-dijkstra) | App web que calcula el camino más corto sobre un mapa real con el algoritmo de Dijkstra (grafos con NetworkX y distancias geodésicas). | Python · Flask · NetworkX · pandas |
 | [Recomendador híbrido](https://github.com/marsrafael/recomendador-hibrido) | Sistema de recomendación híbrido con evaluación de relevancia, cobertura y trade-offs. | Python · scikit-learn · pandas · Jupyter |
 | [InkaTech DB](https://github.com/marsrafael/Proyecto-INKATECH) | Base de datos relacional para una plataforma de alquiler de viviendas para universitarios (arrendadores, contratos, visitas, verificación). | SQL Server · T-SQL |
